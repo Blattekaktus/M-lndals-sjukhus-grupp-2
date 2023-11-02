@@ -55,5 +55,5 @@
 
 <?php
 
-echo "Hej Jacob, vi provar igen";
+echo "Hej Jacob, vi provar igen 2 gånger";
 ?>
